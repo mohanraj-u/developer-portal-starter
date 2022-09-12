@@ -2,4 +2,4 @@ apiCatalog:
   - title: Thingspace Connectivity Management
     disableAutoSidebar: true
     versions:
-      - link: https://api.redocly.com/registry/raw/thingspace-iot/Thingspace%20Connectivity%20Management/v1/Connectivity_Management.json?branch=main
+      - link: https://api.redocly.com/registry/assets/thingspace-iot/Thingspace%20Connectivity%20Management/v1
