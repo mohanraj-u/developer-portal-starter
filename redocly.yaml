@@ -1,0 +1,15 @@
+features.openapi:
+  pagination: none
+  generateCodeSamples:
+    languages:
+      - lang: curl
+        label: curl
+      - lang: Node.js
+        label: Node.js
+      - lang: JavaScript
+        label: JavaScript
+      - lang: Python
+        label: Python
+  mockServer:
+    url: https://de81500c-bdfe-4fc6-b91a-c24d2f046fc3.remockly.com
+    position: first

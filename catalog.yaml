@@ -1,5 +1,5 @@
 apiCatalog:
-  - title: Thingspace Connectivity Management
-    disableAutoSidebar: true
+  - pathPrefix: device-activation
     versions:
-      - link: https://api.redocly.com/registry/assets/thingspace-iot/Thingspace%20Connectivity%20Management/v1
+      - link: https://api.redocly.com/registry/assets/thingspace-iot/IOT%20Device%20Activation/internal?branch=main
+        summary: IOT Device Activation

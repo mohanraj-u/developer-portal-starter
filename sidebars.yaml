@@ -1,5 +1,7 @@
 training:
   - page: developer-portal/index.md
+  - group: Device automation
+    page: device-activation/Connectivity_Management_v7.json
   - group: Training exercises
     expanded: true
     pages:
